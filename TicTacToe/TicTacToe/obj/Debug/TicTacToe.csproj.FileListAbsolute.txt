@@ -1,0 +1,6 @@
+D:\NTU\HKHe_Nam3\TicTacToe-master\TicTacToe\bin\Debug\TicTacToe.dll
+D:\NTU\HKHe_Nam3\TicTacToe-master\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\NTU\HKHe_Nam3\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\NTU\HKHe_Nam3\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\NTU\HKHe_Nam3\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.dll
+D:\NTU\HKHe_Nam3\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.pdb
