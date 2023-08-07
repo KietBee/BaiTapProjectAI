@@ -1,0 +1,38 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\NTU\\HKHe_Nam3\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {}
+  },
+  "projects": {
+    "D:\\NTU\\HKHe_Nam3\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\NTU\\HKHe_Nam3\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+        "projectName": "TicTacToe",
+        "projectPath": "D:\\NTU\\HKHe_Nam3\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+        "projectJsonPath": "D:\\NTU\\HKHe_Nam3\\TicTacToe\\TicTacToe\\project.json",
+        "packagesPath": "C:\\Users\\tuank\\.nuget\\packages\\",
+        "outputPath": "D:\\NTU\\HKHe_Nam3\\TicTacToe\\TicTacToe\\obj\\",
+        "projectStyle": "ProjectJson",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tuank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "dependencies": {
+        "Microsoft.NETCore.Portable.Compatibility": "[1.0.1, )",
+        "NETStandard.Library": "[1.6.0, )"
+      },
+      "frameworks": {
+        "netstandard1.0": {}
+      }
+    }
+  }
+}
