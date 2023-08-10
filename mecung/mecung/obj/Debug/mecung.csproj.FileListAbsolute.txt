@@ -1,0 +1,11 @@
+C:\Users\tuank\source\repos\mecung\mecung\bin\Debug\mecung.exe.config
+C:\Users\tuank\source\repos\mecung\mecung\bin\Debug\mecung.exe
+C:\Users\tuank\source\repos\mecung\mecung\bin\Debug\mecung.pdb
+C:\Users\tuank\source\repos\mecung\mecung\obj\Debug\mecung.csproj.AssemblyReference.cache
+C:\Users\tuank\source\repos\mecung\mecung\obj\Debug\mecung.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuank\source\repos\mecung\mecung\obj\Debug\mecung.Form1.resources
+C:\Users\tuank\source\repos\mecung\mecung\obj\Debug\mecung.Properties.Resources.resources
+C:\Users\tuank\source\repos\mecung\mecung\obj\Debug\mecung.csproj.GenerateResource.cache
+C:\Users\tuank\source\repos\mecung\mecung\obj\Debug\mecung.csproj.CoreCompileInputs.cache
+C:\Users\tuank\source\repos\mecung\mecung\obj\Debug\mecung.exe
+C:\Users\tuank\source\repos\mecung\mecung\obj\Debug\mecung.pdb
